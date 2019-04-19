@@ -1,2 +1,2 @@
 # php-weblogger
-Simple PHP script to log visitors information
+Simple PHP script for logging visitors information
